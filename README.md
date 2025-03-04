@@ -1,16 +1,18 @@
-## Hi there 👋
+Ola Bem vindos ao meu Github, Me chamo Thiago assis  👋
 
-<!--
-**thiagoassis7/thiagoassis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente em transição de carreira da Engenharia Civil para a Engenharia de Software, estou me dedicando ao aprendizado de novas tecnologias e ao desenvolvimento profissional. Tenho conhecimento em HTML, CSS, lógica de programação com JavaScript e prompt engineering para ChatGPT. Além disso, estou constantemente aprimorando minhas habilidades técnicas por meio de cursos , voltados para a área de tecnologia.
 
-Here are some ideas to get you started:
+Tenho conhecimento em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"   width="40" height="40" />
+          
+          
+          
+          
+linguagens em que estou aprendendo :
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+          
+
+ Estou em busca de uma oportunidade para aplicar meus conhecimentos e continuar evoluindo profissionalmente no setor de tecnologia.
