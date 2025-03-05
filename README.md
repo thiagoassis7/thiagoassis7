@@ -1,6 +1,6 @@
 Ola Bem vindos ao meu Github, Me chamo Thiago assis  👋
 
-Atualmente em transição de carreira da Engenharia Civil para a Engenharia de Software, estou me dedicando ao aprendizado de novas tecnologias e ao desenvolvimento profissional. Tenho conhecimento em HTML, CSS,JavaScript, lógica de programação  e prompt engineering para ChatGPT. Além disso, estou constantemente aprimorando minhas habilidades técnicas por meio de cursos , voltados para a área de tecnologia.
+Atualmente em transição de carreira da Engenharia Civil para a Engenharia de Software, estou me dedicando ao aprendizado de novas tecnologias e ao desenvolvimento profissional. Tenho conhecimento em HTML, CSS,JavaScript, lógica de programação  e prompt  para ChatGPT. Além disso, estou constantemente aprimorando minhas habilidades técnicas por meio de cursos , voltados para a área de tecnologia.
 
 Tenho conhecimento em:
 
